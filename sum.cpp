@@ -8,7 +8,7 @@ using namespace std;
     b =2;
     c =a+b;
 
-    cout<<c<<endl;
+    cout<<"The sum is "<<c<<endl;
     
     return 0;
 }
